@@ -1,6 +1,6 @@
 - 👋 I’m Sebastian
 - 👀 I'm interesting of camping and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and HTML
 
 <!---
 sebastian1977/sebastian1977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
